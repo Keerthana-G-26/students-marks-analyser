@@ -54,4 +54,4 @@ with open(file_name, "a", newline="") as file:
         grade,
         result
     ])
-print("\nResult has been saved to student_results.csv")
+print("\nResult saved to student_results.csv")
